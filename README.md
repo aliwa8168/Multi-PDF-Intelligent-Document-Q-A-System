@@ -6,7 +6,7 @@
 
 ## 项目流程：
 
-![](E:\wendang\Markdown\图片\英语\workflow.jpg)
+![工作流程](https://github.com/aliwa8168/Multi-PDF-Intelligent-Document-Q-A-System/blob/main/workflow.jpg?raw=true)
 
 ## 所用技术：
 
@@ -60,5 +60,6 @@
    ```
    DEEPSEEK_API_KEY="your api key"
    ```
+
 
    
